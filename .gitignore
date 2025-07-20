@@ -2,6 +2,7 @@ node_modules/
 output/
 input/
 ffmpeg/
+tracks/
 token.json
 credentials.json
 upload_progress.json
