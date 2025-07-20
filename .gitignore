@@ -1,0 +1,10 @@
+node_modules/
+output/
+input/
+ffmpeg/
+token.json
+credentials.json
+upload_progress.json
+*.log
+.DS_Store
+.env
